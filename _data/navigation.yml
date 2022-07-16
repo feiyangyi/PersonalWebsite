@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://justflynow.github.io/Personalwebsite/cv/
     
   - title: "Guide"
     url: /markdown/
