@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-*  **Wuhan University** Wuhan, Hubei, China. Sept. 2019 - June 2023(expected)
+* **Wuhan University** Wuhan, Hubei, China. Sept. 2019 - June 2023(expected)
   * **B.S. in Mathematics**, School of Mathematics and Statistics & Hongyi Honor Program of Hongyi Honor College
   * Averaged Grade: 90.2/100;\;GPA:3.76/4.00;\;Rank:3/32 in Honor Program, selected from 227 students.
 * **University of California, Berkeley**, Berkeley, CA, USA. Jan. 2022 - Aug. 2022
